@@ -1,0 +1,158 @@
+{
+	"priority_CFKillFeedback" : {
+		"__type" : "int",
+		"value" : 41
+	},
+	"priority_StrongerEnemy" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"priority_BetterFishing" : {
+		"__type" : "int",
+		"value" : 39
+	},
+	"priority_MoreEnemy" : {
+		"__type" : "int",
+		"value" : 38
+	},
+	"priority_MoreTotem" : {
+		"__type" : "int",
+		"value" : 37
+	},
+	"priority_ShowInventoryCount" : {
+		"__type" : "int",
+		"value" : 36
+	},
+	"priority_KangyuPL_IngoreQuestCondMod" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"priority_MoreLootBox" : {
+		"__type" : "int",
+		"value" : 34
+	},
+	"priority_BlackMarketDemanding" : {
+		"__type" : "int",
+		"value" : 33
+	},
+	"priority_BlackMarketRefreshUnlimited" : {
+		"__type" : "int",
+		"value" : 32
+	},
+	"priority_ShopStack99" : {
+		"__type" : "int",
+		"value" : 31
+	},
+	"priority_DashFast" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"priority_BetterBuff" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"priority_Zafkiel" : {
+		"__type" : "int",
+		"value" : 27
+	},
+	"priority_LootAll" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"priority_BossLiveMapMod" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"priority_鸭科夫联机Mod" : {
+		"__type" : "int",
+		"value" : 24
+	},
+	"priority_LiteNetLibLoader" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"priority_HarmonyLoadMod" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"priority_控制台Mod" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"priority_bigInventory" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"priority_EasierLoot" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"priority_DisplayTotalReward" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"priority_DeadNoDrop" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"priority_BulletTime" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"priority_DisplayCashWithMoney" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"priority_AutoSlowHeal" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"priority_NoInspectTime" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"priority_ItemLevelAndSearchSoundMod" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"priority_InfinityDurability" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"priority_NoDurabilityLoss" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"priority_DisplayItemValue" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"priority_WeakerEnemy" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"priority_KillFeed" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"priority_大仓库Mod" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"priority_SuperPet" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"priority_KeycardRecordedIndicator" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"priority_AutoFishing" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"priority_InstantBuildingUpgrade" : {
+		"__type" : "int",
+		"value" : 0
+	}
+}
