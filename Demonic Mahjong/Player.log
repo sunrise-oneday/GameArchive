@@ -1,0 +1,1848 @@
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path D:/xiazai/GAME HOME/GAME11157/Demonic Mahjong_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.7283
+#背包扩展#  UIConfig字段 commonPopUp
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.UI.Bag.BagExtent:PopupPrefabGetterMappingInit()
+
+#背包扩展#  UIConfig字段 paiMianPopUp
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.UI.Bag.BagExtent:PopupPrefabGetterMappingInit()
+
+#地图管理器#  UIConfig字段 commonGameEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 propSelect
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 paiMianZhuNeng
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 paiMianZhuNengSimplified
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 paiMianAddition
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 nodeShop
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 nodePawnshop
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 tokenShop
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#地图管理器#  UIConfig字段 bubbleTeaShop
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameMap.GameMapExtend:GetterMappingInit()
+
+#节点商店#  NodeShop方法 EquipXiaoChou
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:EquipActionMappingInit()
+
+#节点商店#  NodeShop方法 EquipBaoLing
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:EquipActionMappingInit()
+
+#节点商店#  NodeShop方法 EquipRelic
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:EquipActionMappingInit()
+
+#节点商店#  NodeShop方法 EquipOffering
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:EquipActionMappingInit()
+
+#节点商店#  Config清单方法 SetListXiaoChouPai
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:SetActionMappingInit()
+
+#节点商店#  Config清单方法 SetListBaoLing
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:SetActionMappingInit()
+
+#节点商店#  Config清单方法 SetListRelic
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:SetActionMappingInit()
+
+#节点商店#  Config清单方法 SetListOffering
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OMLogger:HashTaggedLog(String, String, String, Boolean)
+MaJiang.GameEvent.Shop.ShopExtend:SetActionMappingInit()
+
+#代币商店# TokenStoreUI字段 tokenContainer
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.TokenStore.TokenStoreExtend:UiPrefabGettersInit()
+
+#代币商店# TokenStoreUI字段 propContainer
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.TokenStore.TokenStoreExtend:UiPrefabGettersInit()
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.631100 ms
+WwiseUnity: Wwise(R) SDK Version 2024.1.1 Build 8691.
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+AkUnitySoundEngineInitialization:InitializeSoundEngine()
+AkInitializer:OnEnable()
+
+WwiseUnity: Setting Plugin DLL path to: D:/xiazai/GAME HOME/GAME11157/Demonic Mahjong_Data\Plugins\x86_64
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkCommonPlatformSettings:get_AkInitializationSettings()
+AkUnitySoundEngineInitialization:InitializeSoundEngine()
+AkInitializer:OnEnable()
+
+WwiseUnity: Sound engine initialized successfully.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkUnitySoundEngineInitialization:InitializeSoundEngine()
+AkInitializer:OnEnable()
+
+#Debug# logging at C:/Users/77496/AppData/LocalLow/Boxed Lightning Games/Demonic Mahjong/Log/log.txt
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.GameManager:DebugLogRedirect()
+MaJiang.GM.GameManager:Awake()
+
+#Debug# SessionId=; Version=0.2.9
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# 为0存档载入 Slot0.json
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.LoadSaverSlots:LoadSaverFromSlotJson(Int32)
+MaJiang.GM.LoadSaverSlots:<Load>b__1_0(Int32)
+System.Linq.WhereSelectEnumerableIterator`2:MoveNext()
+System.Linq.Buffer`1:.ctor(IEnumerable`1)
+System.Linq.Enumerable:ToArray(IEnumerable`1)
+MaJiang.GM.LoadSaverSlots:Load()
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__0(Action, Action`1)
+RSG.Promise:.ctor(Action`2)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# 为1创建新存档数据
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.LoadSaverSlots:LoadSaverFromSlotJson(Int32)
+MaJiang.GM.LoadSaverSlots:<Load>b__1_0(Int32)
+System.Linq.WhereSelectEnumerableIterator`2:MoveNext()
+System.Linq.Buffer`1:.ctor(IEnumerable`1)
+System.Linq.Enumerable:ToArray(IEnumerable`1)
+MaJiang.GM.LoadSaverSlots:Load()
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__0(Action, Action`1)
+RSG.Promise:.ctor(Action`2)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# 为2创建新存档数据
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.LoadSaverSlots:LoadSaverFromSlotJson(Int32)
+MaJiang.GM.LoadSaverSlots:<Load>b__1_0(Int32)
+System.Linq.WhereSelectEnumerableIterator`2:MoveNext()
+System.Linq.Buffer`1:.ctor(IEnumerable`1)
+System.Linq.Enumerable:ToArray(IEnumerable`1)
+MaJiang.GM.LoadSaverSlots:Load()
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__0(Action, Action`1)
+RSG.Promise:.ctor(Action`2)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# TapTap
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# TapTap 初始化调用完毕
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.GameManager:Awake()
+
+#Debug# Add language source I2.Loc.LanguageSourceData, params GameManager (MaJiang.GM.I2Parameters)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.GameManager:Awake()
+
+#SFX Bank# HuPaiCao BankName:MJJinRuHuPaiCao  EventName:Play_MJJinRuHuPaiCao
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+  at MaJiang.PlayMaJiang.SFXPlayback.PlaySFX () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# HuPaiCaoBossGuangZhu BankName:MJHuPaiCaoJiHuo_02  EventName:Play_MJHuPaiCaoJiHuo_02
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+  at MaJiang.PlayMaJiang.SFXPlayback.PlaySFX () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# HuPaiCaoWanJiaGuangZhu BankName:MJHuPaiCaoJiHuo  EventName:Play_MJHuPaiCaoJiHuo
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# HuPaiPaiMian BankName:MJHuPaiPaiMian  EventName:Play_MJHuPaiPaiMian
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# BaoPaiFuJiaSmpl BankName:MJBaoPaiFuJiaSmpl  EventName:Play_MJBaoPaiFuJiaSmpl
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiMianGaiBian BankName:MJPaiMianGaiBian  EventName:Play_MJPaiMianGaiBian
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# BaoPaiFuJia BankName:MJBaoPaiFuJia  EventName:Play_MJBaoPaiFuJia
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# JianFen BankName:MJJianFen  EventName:Play_MJJianFen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiMianFen BankName:MJPaiMianFen  EventName:Play_MJPaiMianFen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiMianNianLing BankName:MJPaiMianNianLing  EventName:Play_MJPaiMianNianLing
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiLingBaoPaiYiChu BankName:MJPaiLingBaoPaiYiChu  EventName:Play_MJPaiLingBaoPaiYiChu
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiLingFuJia BankName:MJPaiLingFuJia  EventName:Play_MJPaiLingFuJia
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#SFX Bank# PaiLingFuJiaSmpl BankName:MJPaiLingFuJiaSmpl  EventName:Play_MJPaiLingFuJiaSmpl
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.SFXPlayback:PlaySFX()
+
+#分辨率# 有分辨率记录
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RSG.<>c__DisplayClass44_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+RSG.<>c__DisplayClass44_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Then(Action`1, Action`1, Action`1)
+RSG.Promise`1:Then(Action`1, Action`1)
+RSG.<>c__DisplayClass42_0`1:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+RSG.<>c__DisplayClass44_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Then(Action`1, Action`1, Action`1)
+RSG.Promise`1:Then(Action`1, Action`1)
+RSG.<>c__DisplayClass42_0`1:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+RSG.<>c__DisplayClass44_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+MaJiang.Utils.<EnumeratorWaitTask>d__7`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#Debug# 配置 Saver Slot 为 0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__3()
+RSG.<>c__DisplayClass53_0:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise:Resolve()
+RSG.<>c__DisplayClass53_0:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise:Resolve()
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__2(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:LoadOpComplete(AsyncOperationHandle`1, IList`1, ResourceLocationMap, Int32, IResourceLocation)
+UnityEngine.AddressableAssets.Initialization.<>c__DisplayClass18_0:<LoadContentCatalogInternal>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.ChainOperation`2:OnWrappedCompleted(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.ResourceManager:ExecuteDeferredCallbacks()
+UnityEngine.ResourceManagement.ResourceManager:Update(Single)
+
+#Debug# 游戏初始化完成，准备场景跳转
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__3()
+RSG.<>c__DisplayClass53_0:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise:Resolve()
+RSG.<>c__DisplayClass53_0:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promises.EnumerableExt:Each(IEnumerable`1, Action`1)
+RSG.Promise:Resolve()
+MaJiang.GM.<>c__DisplayClass74_0:<Awake>b__2(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, String)
+UnityEngine.AddressableAssets.Initialization.InitializationOperation:LoadOpComplete(AsyncOperationHandle`1, IList`1, ResourceLocationMap, Int32, IResourceLocation)
+UnityEngine.AddressableAssets.Initialization.<>c__DisplayClass18_0:<LoadContentCatalogInternal>b__0(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.ChainOperation`2:OnWrappedCompleted(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.ResourceManager:ExecuteDeferredCallbacks()
+UnityEngine.ResourceManagement.ResourceManager:Update(Single)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472600 ms
+#Debug# Add language source I2.Loc.LanguageSourceData
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameStart.GameStartCtrl:Start()
+
+Unloading 494 unused Assets to reduce memory usage. Loaded Objects now: 18296.
+Total: 9.060200 ms (FindLiveObjects: 0.787500 ms CreateObjectMapping: 0.754200 ms MarkObjects: 7.159500 ms  DeleteObjects: 0.358800 ms)
+
+Fade in complete
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameStart.SubStartPage_FadeIn_FadeOut:OnFadeInComplete()
+DG.Tweening.Tween:OnTweenCallback(TweenCallback, Tween)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode)
+DG.Tweening.Core.TweenManager:Update(Tween, Single, Single, Boolean)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single)
+DG.Tweening.Core.DOTweenComponent:FixedUpdate()
+
+Fade in complete
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameStart.SubStartPage_FadeIn_FadeOut:OnFadeInComplete()
+DG.Tweening.Tween:OnTweenCallback(TweenCallback, Tween)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode)
+DG.Tweening.Core.TweenManager:Update(Tween, Single, Single, Boolean)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single)
+DG.Tweening.Core.DOTweenComponent:FixedUpdate()
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.641000 ms
+#数据中心# GameMapMgr Awake
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.GameMapMgr:Awake()
+
+#Debug# Add language source I2.Loc.LanguageSourceData
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.GameMapMgr:Awake()
+
+#UI# 当前UI渲染相机：Main Camera
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Utils.Util:GetSceneCamera(Scene, Scene)
+UnityEngine.SceneManagement.SceneManager:Internal_ActiveSceneChanged(Scene, Scene)
+
+Unloading 1160 unused Assets to reduce memory usage. Loaded Objects now: 64974.
+Total: 41.496900 ms (FindLiveObjects: 1.607600 ms CreateObjectMapping: 2.137300 ms MarkObjects: 37.218400 ms  DeleteObjects: 0.533200 ms)
+
+#数据中心# GameMapMgr Start
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.GameMapMgr:Start()
+
+[SimpleStateMachine] 启动状态机 NoticeState
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Utils.OmSimpleStateMachine.SimpleStateMachine`1:StartMachine()
+
+进入公告状态
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.MapMgrStates.MapMgrState_NoticeState:Enter(Object)
+
+#后台模块 Log# <color=#008080>SendRequestByUrl</color> : Url = https://app.itaotuo.com/majiang/bulletin/list?language=zh-tw
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# Params = 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# signParam = zh-tw
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】appid = majiang
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】timestamp = 1760237565224
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】sign = a1f5e7b08f894d209421b1f750c4f6d8
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# HTTP状态码: 200
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 请求成功
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# Request ResponseData : [{"content":"大家好，《我地麻》全新版本已上線，大家期待已久的地藏王來啦！本次不僅新增地藏王角色、還有配套的地藏王角色成就待你解鎖，更有全新地藏王 BOSS 等你來挑戰。此外我們還增加了日語配音，同時還修復了番型計算、對局卡頓等問題，並優化了靈俑數值與交互等內容～\n\n感謝大家一直以來對《我在地府打麻將》的支持！遊戲自 7 月份上線以來，取得了銷量超 10 萬套，Steam 好評率 96% 的成績！為了慶祝 9 月 15 日的大版本更新，我們特別舉辦 首屆「我地麻杯」玩家大賽。本次賽事設有「名人堂獎」與「玩家選擇獎」兩大獎項，誠邀各位踴躍參加！\n更多詳情介紹，請查看遊戲主界面左下角的 WDM CUP。","subtitle":"地藏王即將登場！折扣即將開啟！9月15日大版本更新，你準備好了嗎？","title":"9月15日大版本更新","createdAt":"2025-09-03T06:39:41.553Z","updatedAt":"2025-09-14T17:26:10.028Z"}]
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:getResponseData(UnityWebRequest, ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[SimpleStateMachine] 切换状态：HomeState
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Utils.OmSimpleStateMachine.SimpleStateMachine`1:ChangeState(String, Object)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+#数据中心# GlobalDataCenter Awake
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMapManagerInstanceCtrl:InsactanceManager(GameMapMgr, UnityAction`1)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:Enter(Object)
+MaJiang.Utils.OmSimpleStateMachine.SimpleStateMachine`1:ChangeState(String, Object)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+#数据中心# 初始化数据
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMapManagerInstanceCtrl:InsactanceManager(GameMapMgr, UnityAction`1)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:Enter(Object)
+MaJiang.Utils.OmSimpleStateMachine.SimpleStateMachine`1:ChangeState(String, Object)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+#数据中心# GlobalDataCenter Start
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:Start()
+
+#Debug# 为Slot0.json.tmp确认目录存档位置
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.SaveFileUtil:SaveWriteToTempTask(String, String, CancellationToken)
+MaJiang.GM.GameManager:SaveWriteToTempTask()
+MaJiang.GM.GameManager:<SaveGameAsync>b__88_0()
+RSG.<>c__DisplayClass51_0`1:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promise:ActionHandlers(IRejectable, Action, Action`1)
+RSG.Promise:Then(Func`1, Func`2, Action`1)
+RSG.Promise:Then(Func`1)
+MaJiang.GM.GameManager:SaveGameAsync()
+MaJiang.GlobalDataCenter:LockBannedRelic()
+
+#Debug# 为Slot0.json.tmp存档保存临时文件
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.SaveFileUtil:SaveWriteToTempTask(String, String, CancellationToken)
+MaJiang.GM.GameManager:SaveWriteToTempTask()
+MaJiang.GM.GameManager:<SaveGameAsync>b__88_0()
+RSG.<>c__DisplayClass51_0`1:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promise:ActionHandlers(IRejectable, Action, Action`1)
+RSG.Promise:Then(Func`1, Func`2, Action`1)
+RSG.Promise:Then(Func`1)
+MaJiang.GM.GameManager:SaveGameAsync()
+MaJiang.GlobalDataCenter:LockBannedRelic()
+
+#Debug# 为Slot0.json存档复制到 Slot0.json.bak
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.SaveFileUtil:CopyFile(String, String, CancellationToken)
+MaJiang.GM.GameManager:SaveWriteToTempTask()
+MaJiang.GM.GameManager:<SaveGameAsync>b__88_0()
+RSG.<>c__DisplayClass51_0`1:<Then>b__0()
+RSG.Promise:InvokeResolveHandler(Action, IRejectable)
+RSG.Promise:ActionHandlers(IRejectable, Action, Action`1)
+RSG.Promise:Then(Func`1, Func`2, Action`1)
+RSG.Promise:Then(Func`1)
+MaJiang.GM.GameManager:SaveGameAsync()
+MaJiang.GlobalDataCenter:LockBannedRelic()
+
+#Debug# 为Slot0.json存档覆盖老数据
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.SaveFileUtil:SaveWriteToOrigin(String)
+MaJiang.GM.GameManager:<SaveGameAsync>b__88_1(Task`1)
+RSG.<>c__DisplayClass43_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+RSG.<>c__DisplayClass44_0:<Then>b__0(PromisedT)
+RSG.Promise`1:InvokeHandler(Action`1, IRejectable, T)
+RSG.Promise`1:Resolve(PromisedT)
+MaJiang.Utils.<EnumeratorWaitTask>d__7`1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#难度# 难度初始化，当前 2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Difficulty.DifficultyManager:Start()
+
+#UI# 建立模型回收池：14
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.PlayMaJiang.UI.Illustration.FanXingManager:ModelPoolInit(IReadOnlyList`1)
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 从Saver 中 恢复 数据中心的数值 （DoUpdateValuesFormSaver） 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 读档 Coins 成功 : 923.7999
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.ValueClasses.SimpleDataFloat:FormSaver()
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 读档 OutGameCoinsMulti 成功 : 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.ValueClasses.SimpleDataFloat:FormSaver()
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 读档 InGameCoinsMulti 成功 : 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.ValueClasses.SimpleDataFloat:FormSaver()
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 读档 SpendCoinsMulti 成功 : 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.ValueClasses.SimpleDataFloat:FormSaver()
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# 读档 ShopPriceMulti 成功 : 1.2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.ValueClasses.SimpleDataFloat:FormSaver()
+MaJiang.GlobalDataCenter:DoUpdateValuesFormSaver()
+MaJiang.GameMap.GameMapMgr:GameMapManagerInit()
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# <color=#008080>SendRequestByUrl</color> : Url = https://app.itaotuo.com/majiang/config/client
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# Params = 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# signParam = 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】appid = majiang
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】timestamp = 1760237573168
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 【CreateRequest】sign = 43448365341326743542ba80d5e0c949
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:CreateRequest(WWWForm, UnityWebRequest, String)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:<Enter>b__3_0(Boolean)
+MaJiang.<DoInsactance>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# HTTP状态码: 200
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# 请求成功
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#后台模块 Log# Request ResponseData : {"qq_group_1":"玩家十群：1050724005","link_youtube_zh-tw":"https://www.youtube.com/@DemonicMahjong","link_youtube_en":"https://www.youtube.com/@DemonicMahjong","link_youtube_jp":"https://www.youtube.com/@DemonicMahjong","link_x_zh-tw":"https://x.com/DemonicMahjong","link_x_en":"https://x.com/DemonicMahjong","link_x_jp":"https://x.com/OmegamesS938","link_discord_zh-tw":"https://discord.gg/kHEZrKafrF","link_discord_en":"https://discord.gg/kHEZrKafrF","link_discord_jp":"https://discord.gg/kHEZrKafrF","competitionUrl":"https://resource.itaotuo.com/website/majiang/competition/index.html","qq_group_2":"玩家十一群：742149676"}
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.OmHttp:getResponseData(UnityWebRequest, ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#GameMapMgr# 服务器上获取 客户端配置数据 成功
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:OnGetCnfigClientCallback(ConfigClient)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+gameData 不为空 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.AccountGameDataHandle:Init(UnityAction)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:OnGetCnfigClientCallback(ConfigClient)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+修为：2783 精魄：0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.AccountGameDataHandle:Init(UnityAction)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:OnGetCnfigClientCallback(ConfigClient)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+登录成功
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GameMap.MapMgrStates.MapMgrState_HomeState:OnGetCnfigClientCallback(ConfigClient)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心# [GetXiaoChouLockList] 已解锁灵俑：51个
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:GetCurCount()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:Init(AchievementPayload, AchievementSaveData)
+MaJiang.Achievement.AchievementManager:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:GetCurCount()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:Init(AchievementPayload, AchievementSaveData)
+MaJiang.Achievement.AchievementManager:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 当前收集 灵俑 数量 <color=#00FFFF>84</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:GetCurCount()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:Init(AchievementPayload, AchievementSaveData)
+MaJiang.Achievement.AchievementManager:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 已拥有 灵俑 列表 JiuWeiHu、ZhaoCaiMao、Lei、WanLiHe、SanXiongDi、YiTongHuXian、XiaoShunWaWa、HuanLi、FengShengHu、BaoShiWaWa、SuanLingHuXian、QingLuan、BiFang、HuPengGui、TaoTie、FuDaiGuai、ShenMiDan、PingFanWaWa、FangShengChi、YouHu、SanCaiHe、TuZhiBo、JinGouDiao、XuanGui、XieZhi、LaZhuWaWa、BaiZe、HuanFengHuXian、QiLin、BiYiNiao、WeiSuoXiaoYao、HongKuLou、JiShiGuai、YinLuGuiChai、SanCaiYuLong、BaiLong、BiJianShou、DanShenGou、FuGuiZhu、JuCaiHe、DieDieXiaoYao、TieTieJinLi、MinGanXiaoGui、JinChan、MuQiangGui、SanLingShe、JieKong、ShuShengWaWa、GuiShuai、DanZhongDan、MaoShiGui、KuoRongDan、DianPaoRenYong、HuangLuanXiaoYao、KongChaoRenYong、BaGe、LongWeiHuXian、SanTouQuan、PingFanRenYong、LaoYueHou、GangKaiHuXian、HuaXinWaWa、PiXiu、GuHu、KuLouXiaoYao、ShuangShuang、GuiHun、WanFuWaWa、XiangYuShu、MinNiu、JinJiGui、FeiCuiDiXian、DuFeng、FengZhiGuan、WenYao、JingWei、DuJiaGui、MiLi、SuoTouGui、XiaoXiaoShu、BaoShiGuai、LaZhuRenYong、LianHuaBao、JiuSeLu
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:GetCurCount()
+MaJiang.Achievement.Runtime.Achievement_CollectXiaoChouCount:Init(AchievementPayload, AchievementSaveData)
+MaJiang.Achievement.AchievementManager:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 管理器初始化运行时成就 <color=#ADFF2F>73</color>
+ <color=#ADFF2F>累计修为</color>/<color=#ADFF2F>吃碰计数</color>/<color=#ADFF2F>收集灵俑</color>/<color=#CD5C5C>加杠计数</color>/<color=#CD5C5C>不携带遗物通关游戏</color>/<color=#CD5C5C>初成·察查</color>/<color=#ADFF2F>累计修为</color>/<color=#ADFF2F>加杠计数</color>/<color=#CD5C5C>你的牌组里所有牌都是宝牌</color>/<color=#ADFF2F>对弈消耗魂力计数</color>/<color=#CD5C5C>魂力上限达到150</color>/<color=#CD5C5C>察查判官</color>/<color=#CD5C5C>谛听</color>/<color=#ADFF2F>罚恶判官</color>/<color=#ADFF2F>狠毒僵尸</color>/<color=#ADFF2F>孟婆</color>/<color=#ADFF2F>凶恶女鬼</color>/<color=#CD5C5C>阎罗王</color>/<color=#ADFF2F>怨念女鬼</color>/<color=#ADFF2F>累计修为</color>/<color=#ADFF2F>累计修为</color>/<color=#CD5C5C>累计修为</color>/<color=#CD5C5C>累计修为</color>/<color=#ADFF2F>收集灵俑</color>/<color=#CD5C5C>收集灵俑</color>/<color=#CD5C5C>初成·谛听</color>/<color=#CD5C5C>初成·孟婆</color>/<color=#CD5C5C>初成·秦广王</color>/<color=#CD5C5C>初成·阎罗王</color>/<color=#ADFF2F>累计精魄</color>/<color=#ADFF2F>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#ADFF2F>收集祭品</color>/<color=#ADFF2F>收集宝牌牌灵</color>/<color=#ADFF2F>初成·贪吃</color>/<color=#ADFF2F>初成·贪财</color>/<color=#CD5C5C>初成·狠毒</color>/<color=#CD5C5C>初成·不碰</color>/<color=#CD5C5C>初成·自闭</color>/<color=#CD5C5C>初成·饥渴</color>/<color=#CD5C5C>初成·怨念</color>/<color=#CD5C5C>初成·凶恶</color>/<color=#CD5C5C>初成·牛头</color>/<color=#ADFF2F>初成·马面</color>/<color=#CD5C5C>初成·黑无常</color>/<color=#CD5C5C>初成·白无常</color>/<color=#ADFF2F>初成·赏善</color>/<color=#ADFF2F>初成·罚恶</color>/<color=#CD5C5C>初成·阴律</color>/<color=#CD5C5C>证道·馋宝</color>/<color=#CD5C5C>证道·满宝</color>/<color=#CD5C5C>证道·荼荼</color>/<color=#CD5C5C>证道·砰砰</color>/<color=#CD5C5C>证道·幽汐</color>/<color=#CD5C5C>证道·阿渴</color>/<color=#CD5C5C>证道·红绫</color>/<color=#CD5C5C>证道·祟姑</color>/<color=#CD5C5C>证道·阿傍</color>/<color=#CD5C5C>证道·阿骐</color>/<color=#CD5C5C>证道·黑无常</color>/<color=#CD5C5C>证道·白无常</color>/<color=#CD5C5C>证道·赏善</color>/<color=#CD5C5C>证道·罚恶</color>/<color=#CD5C5C>证道·阴律</color>/<color=#CD5C5C>证道·察查</color>/<color=#CD5C5C>证道·谛听</color>/<color=#CD5C5C>证道·孟婆</color>/<color=#CD5C5C>证道·秦广王</color>/<color=#CD5C5C>证道·阎罗王</color>/<color=#ADFF2F></color>/<color=#ADFF2F></color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# User [<color=#FFFF00>76561197960287930</color>] stats and achievements initialized successfully.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:Init()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 300001
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 [300001] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200000
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 大快朵頤[200000] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 300001
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 [300001] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200001
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 槓王駕到[200001] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100300
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 俑藏・壹[100300] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100301
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 俑藏・貳[100301] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100800
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 供奉無遺[100800] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100801
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 寶靈雙絕[100801] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100102
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 修途・參[100102] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100101
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 修途・貳[100101] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100100
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 修途・壹[100100] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100201
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 奪魄・貳[100201] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 100200
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 奪魄・壹[100200] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 101409
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 初成・阿騏[101409] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 101412
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 初成・賞善[101412] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 101413
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 初成・罰惡[101413] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 101401
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 初成・滿寶[101401] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 101400
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 初成・饞寶[101400] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200004
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 積金至斗[200004] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200006
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 魂力狂潮[200006] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200009
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 毒入膏肓[200009] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200010
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 念靈纏身[200010] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200011
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 急不可耐[200011] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200008
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 冥途多舛[200008] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# #Steam# Sync Achievement: 200014
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.Platform.SteamAchievementHandler:SyncAchievement(String)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 成就 飲料受害者[200014] 同步成功。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:PlatformHandlerSync()
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#成就# 场景 GameMap 数据中心更新。
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Achievement.AchievementManager:OnSceneChanged(Scene, Scene)
+MaJiang.Achievement.AchievementManager:OnLoginFinished(EventParam)
+MaJiang.Utils.EventManager:Dispatch(EventParam)
+MaJiang.<>c__DisplayClass11_0:<GetConfigClient>b__0(ResponseData)
+MaJiang.<SendRequestByUrl>d__0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+#天赋系统# UserId [] 天赋存档 20
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心# [GetXiaoChouLockList] 已解锁灵俑：51个
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong1:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong1:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心# [GetXiaoChouLockList] 已解锁灵俑：51个
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong2:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong2:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心# [GetXiaoChouLockList] 已解锁灵俑：51个
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong3:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong3:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心# [GetXiaoChouLockList] 已解锁灵俑：51个
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong4:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GlobalDataCenter:GetXiaoChouLockList()
+MaJiang.GlobalDataCenter:get_AvailableXiaoChouTotalList()
+MaJiang.Talent.Runtime.Talent_BanLingYong4:Refresh()
+MaJiang.Talent.TalentManager:Init()
+
+#天赋系统# 管理器初始化运行时天赋 <color=#ADFF2F>24</color>
+ 兑换高级资源[<color=#FFFF00>0</color>]/底分[<color=#FFFF00>1</color>]/强化台扩容[<color=#FFFF00>0</color>]/初始金币[<color=#FFFF00>1</color>]/初始命及命上限[<color=#FFFF00>1</color>]/和牌槽[<color=#FFFF00>1</color>]/调度牌数[<color=#FFFF00>0</color>]/灵俑仓库栏位[<color=#FFFF00>2</color>]/地府悬赏[<color=#FFFF00>1</color>]/免费奶茶[<color=#FFFF00>1</color>]/奶茶上新[<color=#FFFF00>1</color>]/神秘商店[<color=#FFFF00>1</color>]/当铺[<color=#FFFF00>0</color>]/鬼卒禁咒[<color=#FFFF00>0</color>]/祭品槽[<color=#FFFF00>2</color>]/初始魂力[<color=#FFFF00>0</color>]/魂力上限[<color=#FFFF00>4</color>]/魂力回复[<color=#FFFF00>2</color>]/摸牌总量[<color=#FFFF00>1</color>]/阴差禁咒[<color=#FFFF00>0</color>]/判官禁咒[<color=#FFFF00>0</color>]/阎王禁咒[<color=#FFFF00>0</color>]/般若波罗蜜[<color=#FFFF00>0</color>]/解忧茶铺[<color=#FFFF00>0</color>]
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.Talent.TalentManager:Init()
+
+Done PlaceholderPrefab (UnityEngine.GameObject)/Succeeded
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.GM.<>c:<Awake>b__74_5(AsyncOperationHandle`1)
+DelegateList`1:Invoke(T)
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:Complete(TObject, Boolean, Exception, Boolean)
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:ProviderCompleted(T, Boolean, Exception)
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:CompleteOperation()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+HomePanelAnim 动画播放完成！
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.<WaitForAnimationToComplete>d__65:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+WwiseUnity: Sound engine terminated successfully.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:OnApplicationQuit()
+
+Setting up 20 worker threads for Enlighten.
+#Dub Bank# 单例销毁
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MaJiang.DubContainer:OnDestroy()
+
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 14 frames, [1.0 KB-2.0 KB]: 854 frames, [2.0 KB-4.0 KB]: 6 frames, [4.0 KB-8.0 KB]: 868 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 264 frames, [64.0 KB-128.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.8 MB
+      Peak Allocated Bytes 7.8 MB
+      Overflow Count 8
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 454.3 KB
+      Overflow Count 1762
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 408 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 21.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 488 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 40.0 KB
+      Peak Allocated Bytes 36.2 KB
+      Overflow Count 2
+    [ALLOC_TEMP_EnlightenWorker] x 20
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 21.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 21.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 21.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 176 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 21.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 488 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 15.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 256 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 4267
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 7 Subsections = 7168 buckets. Failed count: 144604
+        32B: 30 Subsections = 15360 buckets. Failed count: 58368
+        48B: 93 Subsections = 31744 buckets. Failed count: 42086
+        64B: 61 Subsections = 15616 buckets. Failed count: 67524
+        80B: 34 Subsections = 6963 buckets. Failed count: 4999
+        96B: 11 Subsections = 1877 buckets. Failed count: 32154
+        112B: 6 Subsections = 877 buckets. Failed count: 2233
+        128B: 14 Subsections = 1792 buckets. Failed count: 36579
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 13 frames, [64.0 MB-128.0 MB]: 2001 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 84.2 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 875 frames, [32.0 MB-64.0 MB]: 1139 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 58.5 MB
+      Peak Large allocation bytes 21.6 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 29
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 7 Subsections = 7168 buckets. Failed count: 144604
+        32B: 30 Subsections = 15360 buckets. Failed count: 58368
+        48B: 93 Subsections = 31744 buckets. Failed count: 42086
+        64B: 61 Subsections = 15616 buckets. Failed count: 67524
+        80B: 34 Subsections = 6963 buckets. Failed count: 4999
+        96B: 11 Subsections = 1877 buckets. Failed count: 32154
+        112B: 6 Subsections = 877 buckets. Failed count: 2233
+        128B: 14 Subsections = 1792 buckets. Failed count: 36579
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 2014 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 65.2 MB
+      Peak Large allocation bytes 64.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 2014 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 25
+      Peak Allocated memory 439.1 MB
+      Peak Large allocation bytes 64.0 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 3705
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 7 Subsections = 7168 buckets. Failed count: 144604
+        32B: 30 Subsections = 15360 buckets. Failed count: 58368
+        48B: 93 Subsections = 31744 buckets. Failed count: 42086
+        64B: 61 Subsections = 15616 buckets. Failed count: 67524
+        80B: 34 Subsections = 6963 buckets. Failed count: 4999
+        96B: 11 Subsections = 1877 buckets. Failed count: 32154
+        112B: 6 Subsections = 877 buckets. Failed count: 2233
+        128B: 14 Subsections = 1792 buckets. Failed count: 36579
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 2014 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 2
+      Peak Allocated memory 6.6 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 23 frames, [64.0 MB-128.0 MB]: 852 frames, [128.0 MB-256.0 MB]: 1139 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 31
+      Peak Allocated memory 186.5 MB
+      Peak Large allocation bytes 82.8 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 7 Subsections = 7168 buckets. Failed count: 144604
+        32B: 30 Subsections = 15360 buckets. Failed count: 58368
+        48B: 93 Subsections = 31744 buckets. Failed count: 42086
+        64B: 61 Subsections = 15616 buckets. Failed count: 67524
+        80B: 34 Subsections = 6963 buckets. Failed count: 4999
+        96B: 11 Subsections = 1877 buckets. Failed count: 32154
+        112B: 6 Subsections = 877 buckets. Failed count: 2233
+        128B: 14 Subsections = 1792 buckets. Failed count: 36579
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 1654 frames, [16.0 KB-32.0 KB]: 360 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 18.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 29 frames, [64.0 KB-128.0 KB]: 846 frames, [128.0 KB-256.0 KB]: 779 frames, [1.0 MB-2.0 MB]: 360 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B

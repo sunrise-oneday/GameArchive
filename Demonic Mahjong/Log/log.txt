@@ -1,0 +1,147 @@
+[10:52:36 Log] #Debug# SessionId=; Version=0.2.9
+[10:52:36 Log] #Debug# 为0存档载入 Slot0.json
+[10:52:36 Log] #Debug# 为1创建新存档数据
+[10:52:36 Log] #Debug# 为2创建新存档数据
+[10:52:36 Log] #Debug# TapTap
+[10:52:36 Log] #Debug# TapTap 初始化调用完毕
+[10:52:36 Log] #Debug# Add language source I2.Loc.LanguageSourceData, params GameManager (MaJiang.GM.I2Parameters)
+[10:52:36 Log] #SFX Bank# HuPaiCao BankName:MJJinRuHuPaiCao  EventName:Play_MJJinRuHuPaiCao
+[10:52:36 Warning] System.NullReferenceException: Object reference not set to an instance of an object.
+  at MaJiang.PlayMaJiang.SFXPlayback.PlaySFX () [0x00000] in <00000000000000000000000000000000>:0 
+[10:52:36 Log] #SFX Bank# HuPaiCaoBossGuangZhu BankName:MJHuPaiCaoJiHuo_02  EventName:Play_MJHuPaiCaoJiHuo_02
+[10:52:36 Warning] System.NullReferenceException: Object reference not set to an instance of an object.
+  at MaJiang.PlayMaJiang.SFXPlayback.PlaySFX () [0x00000] in <00000000000000000000000000000000>:0 
+[10:52:36 Log] #SFX Bank# HuPaiCaoWanJiaGuangZhu BankName:MJHuPaiCaoJiHuo  EventName:Play_MJHuPaiCaoJiHuo
+[10:52:36 Log] #SFX Bank# HuPaiPaiMian BankName:MJHuPaiPaiMian  EventName:Play_MJHuPaiPaiMian
+[10:52:36 Log] #SFX Bank# BaoPaiFuJiaSmpl BankName:MJBaoPaiFuJiaSmpl  EventName:Play_MJBaoPaiFuJiaSmpl
+[10:52:36 Log] #SFX Bank# PaiMianGaiBian BankName:MJPaiMianGaiBian  EventName:Play_MJPaiMianGaiBian
+[10:52:36 Log] #SFX Bank# BaoPaiFuJia BankName:MJBaoPaiFuJia  EventName:Play_MJBaoPaiFuJia
+[10:52:36 Log] #SFX Bank# JianFen BankName:MJJianFen  EventName:Play_MJJianFen
+[10:52:36 Log] #SFX Bank# PaiMianFen BankName:MJPaiMianFen  EventName:Play_MJPaiMianFen
+[10:52:36 Log] #SFX Bank# PaiMianNianLing BankName:MJPaiMianNianLing  EventName:Play_MJPaiMianNianLing
+[10:52:36 Log] #SFX Bank# PaiLingBaoPaiYiChu BankName:MJPaiLingBaoPaiYiChu  EventName:Play_MJPaiLingBaoPaiYiChu
+[10:52:36 Log] #SFX Bank# PaiLingFuJia BankName:MJPaiLingFuJia  EventName:Play_MJPaiLingFuJia
+[10:52:36 Log] #SFX Bank# PaiLingFuJiaSmpl BankName:MJPaiLingFuJiaSmpl  EventName:Play_MJPaiLingFuJiaSmpl
+[10:52:36 Log] #分辨率# 有分辨率记录
+[10:52:36 Log] #Debug# 配置 Saver Slot 为 0
+[10:52:36 Log] #Debug# 游戏初始化完成，准备场景跳转
+[10:52:37 Log] #Debug# Add language source I2.Loc.LanguageSourceData
+[10:52:38 Log] Fade in complete
+[10:52:41 Log] Fade in complete
+[10:52:45 Log] #数据中心# GameMapMgr Awake
+[10:52:45 Log] #Debug# Add language source I2.Loc.LanguageSourceData
+[10:52:45 Log] #UI# 当前UI渲染相机：Main Camera
+[10:52:45 Log] #数据中心# GameMapMgr Start
+[10:52:45 Log] [SimpleStateMachine] 启动状态机 NoticeState
+[10:52:45 Log] 进入公告状态
+[10:52:45 Log] #后台模块 Log# <color=#008080>SendRequestByUrl</color> : Url = https://app.itaotuo.com/majiang/bulletin/list?language=zh-tw
+[10:52:45 Log] #后台模块 Log# Params = 
+[10:52:45 Log] #后台模块 Log# signParam = zh-tw
+[10:52:45 Log] #后台模块 Log# 【CreateRequest】appid = majiang
+[10:52:45 Log] #后台模块 Log# 【CreateRequest】timestamp = 1760237565224
+[10:52:45 Log] #后台模块 Log# 【CreateRequest】sign = a1f5e7b08f894d209421b1f750c4f6d8
+[10:52:45 Log] #后台模块 Log# HTTP状态码: 200
+[10:52:45 Log] #后台模块 Log# 请求成功
+[10:52:45 Log] #后台模块 Log# Request ResponseData : [{"content":"大家好，《我地麻》全新版本已上線，大家期待已久的地藏王來啦！本次不僅新增地藏王角色、還有配套的地藏王角色成就待你解鎖，更有全新地藏王 BOSS 等你來挑戰。此外我們還增加了日語配音，同時還修復了番型計算、對局卡頓等問題，並優化了靈俑數值與交互等內容～\n\n感謝大家一直以來對《我在地府打麻將》的支持！遊戲自 7 月份上線以來，取得了銷量超 10 萬套，Steam 好評率 96% 的成績！為了慶祝 9 月 15 日的大版本更新，我們特別舉辦 首屆「我地麻杯」玩家大賽。本次賽事設有「名人堂獎」與「玩家選擇獎」兩大獎項，誠邀各位踴躍參加！\n更多詳情介紹，請查看遊戲主界面左下角的 WDM CUP。","subtitle":"地藏王即將登場！折扣即將開啟！9月15日大版本更新，你準備好了嗎？","title":"9月15日大版本更新","createdAt":"2025-09-03T06:39:41.553Z","updatedAt":"2025-09-14T17:26:10.028Z"}]
+[10:52:53 Log] [SimpleStateMachine] 切换状态：HomeState
+[10:52:53 Log] #数据中心# GlobalDataCenter Awake
+[10:52:53 Log] #数据中心# 初始化数据
+[10:52:53 Log] #数据中心# GlobalDataCenter Start
+[10:52:53 Log] #Debug# 为Slot0.json.tmp确认目录存档位置
+[10:52:53 Log] #Debug# 为Slot0.json.tmp存档保存临时文件
+[10:52:53 Log] #Debug# 为Slot0.json存档复制到 Slot0.json.bak
+[10:52:53 Log] #Debug# 为Slot0.json存档覆盖老数据
+[10:52:53 Log] #难度# 难度初始化，当前 2
+[10:52:53 Log] #UI# 建立模型回收池：14
+[10:52:53 Log] #数据中心# 从Saver 中 恢复 数据中心的数值 （DoUpdateValuesFormSaver） 
+[10:52:53 Log] #数据中心# 读档 Coins 成功 : 923.7999
+[10:52:53 Log] #数据中心# 读档 OutGameCoinsMulti 成功 : 1
+[10:52:53 Log] #数据中心# 读档 InGameCoinsMulti 成功 : 1
+[10:52:53 Log] #数据中心# 读档 SpendCoinsMulti 成功 : 1
+[10:52:53 Log] #数据中心# 读档 ShopPriceMulti 成功 : 1.2
+[10:52:53 Log] #后台模块 Log# <color=#008080>SendRequestByUrl</color> : Url = https://app.itaotuo.com/majiang/config/client
+[10:52:53 Log] #后台模块 Log# Params = 
+[10:52:53 Log] #后台模块 Log# signParam = 
+[10:52:53 Log] #后台模块 Log# 【CreateRequest】appid = majiang
+[10:52:53 Log] #后台模块 Log# 【CreateRequest】timestamp = 1760237573168
+[10:52:53 Log] #后台模块 Log# 【CreateRequest】sign = 43448365341326743542ba80d5e0c949
+[10:52:53 Log] #后台模块 Log# HTTP状态码: 200
+[10:52:53 Log] #后台模块 Log# 请求成功
+[10:52:53 Log] #后台模块 Log# Request ResponseData : {"qq_group_1":"玩家十群：1050724005","link_youtube_zh-tw":"https://www.youtube.com/@DemonicMahjong","link_youtube_en":"https://www.youtube.com/@DemonicMahjong","link_youtube_jp":"https://www.youtube.com/@DemonicMahjong","link_x_zh-tw":"https://x.com/DemonicMahjong","link_x_en":"https://x.com/DemonicMahjong","link_x_jp":"https://x.com/OmegamesS938","link_discord_zh-tw":"https://discord.gg/kHEZrKafrF","link_discord_en":"https://discord.gg/kHEZrKafrF","link_discord_jp":"https://discord.gg/kHEZrKafrF","competitionUrl":"https://resource.itaotuo.com/website/majiang/competition/index.html","qq_group_2":"玩家十一群：742149676"}
+[10:52:53 Log] #GameMapMgr# 服务器上获取 客户端配置数据 成功
+[10:52:53 Log] gameData 不为空 
+[10:52:53 Log] 修为：2783 精魄：0
+[10:52:53 Log] 登录成功
+[10:52:53 Log] #数据中心# [GetLingYongLockList] 已解锁灵俑：51个
+[10:52:53 Log] #数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+[10:52:53 Log] #成就# 当前收集 灵俑 数量 <color=#00FFFF>84</color>
+[10:52:53 Log] #成就# 已拥有 灵俑 列表 JiuWeiHu、ZhaoCaiMao、Lei、WanLiHe、SanXiongDi、YiTongHuXian、XiaoShunWaWa、HuanLi、FengShengHu、BaoShiWaWa、SuanLingHuXian、QingLuan、BiFang、HuPengGui、TaoTie、FuDaiGuai、ShenMiDan、PingFanWaWa、FangShengChi、YouHu、SanCaiHe、TuZhiBo、JinGouDiao、XuanGui、XieZhi、LaZhuWaWa、BaiZe、HuanFengHuXian、QiLin、BiYiNiao、WeiSuoXiaoYao、HongKuLou、JiShiGuai、YinLuGuiChai、SanCaiYuLong、BaiLong、BiJianShou、DanShenGou、FuGuiZhu、JuCaiHe、DieDieXiaoYao、TieTieJinLi、MinGanXiaoGui、JinChan、MuQiangGui、SanLingShe、JieKong、ShuShengWaWa、GuiShuai、DanZhongDan、MaoShiGui、KuoRongDan、DianPaoRenYong、HuangLuanXiaoYao、KongChaoRenYong、BaGe、LongWeiHuXian、SanTouQuan、PingFanRenYong、LaoYueHou、GangKaiHuXian、HuaXinWaWa、PiXiu、GuHu、KuLouXiaoYao、ShuangShuang、GuiHun、WanFuWaWa、XiangYuShu、MinNiu、JinJiGui、FeiCuiDiXian、DuFeng、FengZhiGuan、WenYao、JingWei、DuJiaGui、MiLi、SuoTouGui、XiaoXiaoShu、BaoShiGuai、LaZhuRenYong、LianHuaBao、JiuSeLu
+[10:52:53 Log] #成就# 管理器初始化运行时成就 <color=#ADFF2F>73</color>
+ <color=#ADFF2F>累计修为</color>/<color=#ADFF2F>吃碰计数</color>/<color=#ADFF2F>收集灵俑</color>/<color=#CD5C5C>加杠计数</color>/<color=#CD5C5C>不携带遗物通关游戏</color>/<color=#CD5C5C>初成·察查</color>/<color=#ADFF2F>累计修为</color>/<color=#ADFF2F>加杠计数</color>/<color=#CD5C5C>你的牌组里所有牌都是宝牌</color>/<color=#ADFF2F>对弈消耗魂力计数</color>/<color=#CD5C5C>魂力上限达到150</color>/<color=#CD5C5C>察查判官</color>/<color=#CD5C5C>谛听</color>/<color=#ADFF2F>罚恶判官</color>/<color=#ADFF2F>狠毒僵尸</color>/<color=#ADFF2F>孟婆</color>/<color=#ADFF2F>凶恶女鬼</color>/<color=#CD5C5C>阎罗王</color>/<color=#ADFF2F>怨念女鬼</color>/<color=#ADFF2F>累计修为</color>/<color=#ADFF2F>累计修为</color>/<color=#CD5C5C>累计修为</color>/<color=#CD5C5C>累计修为</color>/<color=#ADFF2F>收集灵俑</color>/<color=#CD5C5C>收集灵俑</color>/<color=#CD5C5C>初成·谛听</color>/<color=#CD5C5C>初成·孟婆</color>/<color=#CD5C5C>初成·秦广王</color>/<color=#CD5C5C>初成·阎罗王</color>/<color=#ADFF2F>累计精魄</color>/<color=#ADFF2F>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#CD5C5C>累计精魄</color>/<color=#ADFF2F>收集祭品</color>/<color=#ADFF2F>收集宝牌牌灵</color>/<color=#ADFF2F>初成·贪吃</color>/<color=#ADFF2F>初成·贪财</color>/<color=#CD5C5C>初成·狠毒</color>/<color=#CD5C5C>初成·不碰</color>/<color=#CD5C5C>初成·自闭</color>/<color=#CD5C5C>初成·饥渴</color>/<color=#CD5C5C>初成·怨念</color>/<color=#CD5C5C>初成·凶恶</color>/<color=#CD5C5C>初成·牛头</color>/<color=#ADFF2F>初成·马面</color>/<color=#CD5C5C>初成·黑无常</color>/<color=#CD5C5C>初成·白无常</color>/<color=#ADFF2F>初成·赏善</color>/<color=#ADFF2F>初成·罚恶</color>/<color=#CD5C5C>初成·阴律</color>/<color=#CD5C5C>证道·馋宝</color>/<color=#CD5C5C>证道·满宝</color>/<color=#CD5C5C>证道·荼荼</color>/<color=#CD5C5C>证道·砰砰</color>/<color=#CD5C5C>证道·幽汐</color>/<color=#CD5C5C>证道·阿渴</color>/<color=#CD5C5C>证道·红绫</color>/<color=#CD5C5C>证道·祟姑</color>/<color=#CD5C5C>证道·阿傍</color>/<color=#CD5C5C>证道·阿骐</color>/<color=#CD5C5C>证道·黑无常</color>/<color=#CD5C5C>证道·白无常</color>/<color=#CD5C5C>证道·赏善</color>/<color=#CD5C5C>证道·罚恶</color>/<color=#CD5C5C>证道·阴律</color>/<color=#CD5C5C>证道·察查</color>/<color=#CD5C5C>证道·谛听</color>/<color=#CD5C5C>证道·孟婆</color>/<color=#CD5C5C>证道·秦广王</color>/<color=#CD5C5C>证道·阎罗王</color>/<color=#ADFF2F></color>/<color=#ADFF2F></color>
+[10:52:53 Log] #成就# #Steam# User [<color=#FFFF00>76561197960287930</color>] stats and achievements initialized successfully.
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 300001
+[10:52:53 Log] #成就# 成就 [300001] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200000
+[10:52:53 Log] #成就# 成就 大快朵頤[200000] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 300001
+[10:52:53 Log] #成就# 成就 [300001] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200001
+[10:52:53 Log] #成就# 成就 槓王駕到[200001] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100300
+[10:52:53 Log] #成就# 成就 俑藏・壹[100300] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100301
+[10:52:53 Log] #成就# 成就 俑藏・貳[100301] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100800
+[10:52:53 Log] #成就# 成就 供奉無遺[100800] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100801
+[10:52:53 Log] #成就# 成就 寶靈雙絕[100801] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100102
+[10:52:53 Log] #成就# 成就 修途・參[100102] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100101
+[10:52:53 Log] #成就# 成就 修途・貳[100101] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100100
+[10:52:53 Log] #成就# 成就 修途・壹[100100] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100201
+[10:52:53 Log] #成就# 成就 奪魄・貳[100201] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 100200
+[10:52:53 Log] #成就# 成就 奪魄・壹[100200] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 101409
+[10:52:53 Log] #成就# 成就 初成・阿騏[101409] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 101412
+[10:52:53 Log] #成就# 成就 初成・賞善[101412] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 101413
+[10:52:53 Log] #成就# 成就 初成・罰惡[101413] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 101401
+[10:52:53 Log] #成就# 成就 初成・滿寶[101401] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 101400
+[10:52:53 Log] #成就# 成就 初成・饞寶[101400] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200004
+[10:52:53 Log] #成就# 成就 積金至斗[200004] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200006
+[10:52:53 Log] #成就# 成就 魂力狂潮[200006] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200009
+[10:52:53 Log] #成就# 成就 毒入膏肓[200009] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200010
+[10:52:53 Log] #成就# 成就 念靈纏身[200010] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200011
+[10:52:53 Log] #成就# 成就 急不可耐[200011] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200008
+[10:52:53 Log] #成就# 成就 冥途多舛[200008] 同步成功。
+[10:52:53 Log] #成就# #Steam# Sync Achievement: 200014
+[10:52:53 Log] #成就# 成就 飲料受害者[200014] 同步成功。
+[10:52:53 Log] #成就# 场景 GameMap 数据中心更新。
+[10:52:53 Log] #天赋系统# UserId [] 天赋存档 20
+[10:52:53 Log] #数据中心# [GetLingYongLockList] 已解锁灵俑：51个
+[10:52:53 Log] #数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+[10:52:53 Log] #数据中心# [GetLingYongLockList] 已解锁灵俑：51个
+[10:52:53 Log] #数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+[10:52:53 Log] #数据中心# [GetLingYongLockList] 已解锁灵俑：51个
+[10:52:53 Log] #数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+[10:52:53 Log] #数据中心# [GetLingYongLockList] 已解锁灵俑：51个
+[10:52:53 Log] #数据中心#  -- 过滤 加锁表后 返回还没有解锁的 灵俑列表 Count:48 DuJin,HeiSanFeng,DaDaXiang,FuZhiDan,FengHuangDan,XueJian,FenShenPen,HuaGuanNiu,TianGou,ZhongYongTu,XiaoShiYe,YuTu,HuXianXueTu,JiXiangXiaoMa,BaoShiHuDie,BuXiRenYong,HuaXiaoGu,ChanDingGuiChai,PingFanXiaoYao,QingShe,BingFeng,CiTuan,YiNuXiaoGui,JuDuDiXian,BaiMianXiaoGui,PiLiRenYong,HongLongYuXi,ShengCaiGuiChai,BaoShiRenYong,MingXiangHou,HuaXinRenYong,BaoShiXiaoYao,ChuFeng,SheDe,ChanDingHou,ChiQingXiaoGui,GaoDianNiu,YuanYang,JiXiangTu,PuTiNiu,ShouShenShe,SongLanNiu,ShiHunDie,YiWangWaWa,ShiHunXiaoYao,QiongQi,ChiTun,TunTun
+[10:52:53 Log] #天赋系统# 管理器初始化运行时天赋 <color=#ADFF2F>24</color>
+ 兑换高级资源[<color=#FFFF00>0</color>]/底分[<color=#FFFF00>1</color>]/强化台扩容[<color=#FFFF00>0</color>]/初始金币[<color=#FFFF00>1</color>]/初始命及命上限[<color=#FFFF00>1</color>]/和牌槽[<color=#FFFF00>1</color>]/调度牌数[<color=#FFFF00>0</color>]/灵俑仓库栏位[<color=#FFFF00>2</color>]/地府悬赏[<color=#FFFF00>1</color>]/免费奶茶[<color=#FFFF00>1</color>]/奶茶上新[<color=#FFFF00>1</color>]/神秘商店[<color=#FFFF00>1</color>]/当铺[<color=#FFFF00>0</color>]/鬼卒禁咒[<color=#FFFF00>0</color>]/祭品槽[<color=#FFFF00>2</color>]/初始魂力[<color=#FFFF00>0</color>]/魂力上限[<color=#FFFF00>4</color>]/魂力回复[<color=#FFFF00>2</color>]/摸牌总量[<color=#FFFF00>1</color>]/阴差禁咒[<color=#FFFF00>0</color>]/判官禁咒[<color=#FFFF00>0</color>]/阎王禁咒[<color=#FFFF00>0</color>]/般若波罗蜜[<color=#FFFF00>0</color>]/解忧茶铺[<color=#FFFF00>0</color>]
+[10:52:54 Log] Done PlaceholderPrefab (UnityEngine.GameObject)/Succeeded
+[10:52:57 Log] HomePanelAnim 动画播放完成！
+[10:52:57 Log] WwiseUnity: Sound engine terminated successfully.
+[10:52:57 Log] #Dub Bank# 单例销毁
