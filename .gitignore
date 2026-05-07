@@ -1,4 +1,6 @@
-# Dark Souls III 游戏存档 - 仅保留存档和配置
+# 排除不需要的文件夹
+.claude/
+Duckov/
 
 # 排除备份文件
 **/*.bak
